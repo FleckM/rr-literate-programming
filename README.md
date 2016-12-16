@@ -30,7 +30,7 @@ At the end of the session students will be able to
 
 * Recap about markdown, Rmarkdown, `knitr`, and virtues of literate
   programming from the demonstrations in the Intro lesson:
-  [slides](slides/lit-prog-slides)
+  [slides](http://htmlpreview.github.io/?https://raw.githubusercontent.com/Reproducible-Science-Curriculum/rr-literate-programming/master/02-literate-programming-slides.html)
 
 ### Activity - Using R and Rmarkdown to clean and plot data
 
@@ -52,7 +52,7 @@ reports in R.
 
 ## Documenting data modifications
 
-Lesson: [01-programatic-modification](01-documenting-data-modification.md)
+Lesson: [litprog-01-lesson](litprog-01-lesson.md)
 
 ### Activity - Cleaning up data in Excel
 
@@ -62,7 +62,7 @@ making modifications in a self-documenting and executable way.
 
 ### Applying literate programming to produce executable documentation
 
-* Lesson: [02-literate-programming](02-literate-programming.md)
+* Lesson: [litprog-02-lesson](litprog-02-lesson.md)
 
 ## Resources and useful links
 
